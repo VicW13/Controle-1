@@ -1,0 +1,2 @@
+SELECT poids, idTran FROM `lot` WHERE `idAff` = '459629';
+
